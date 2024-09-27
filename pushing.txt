@@ -1,0 +1,3 @@
+Git bashda 
+ mv old-name new-name 
+seklinde yazaraq fayl/folder adi deyismek mumkundur
